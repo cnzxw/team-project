@@ -12,6 +12,8 @@ class db{
 	private static $error='';
 	private static $sql='';
 
-	function
+	function wel(){
+		echo 111;
+	}
 }
 ?>
